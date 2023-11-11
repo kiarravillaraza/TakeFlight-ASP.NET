@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="FlightForm.aspx" />
     <Content Include="images\flights.png" />
+    <Content Include="styles.css" />
     <Content Include="UserForm.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
